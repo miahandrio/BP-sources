@@ -1,0 +1,8 @@
+fine-tuned-weights/lr1e-5_3-epoch/adapter_model.safetensors filter=lfs diff=lfs merge=lfs -text
+fine-tuned-weights/lr1e-6_3-epoch/adapter_model.safetensors filter=lfs diff=lfs merge=lfs -text
+fine-tuned-weights/lr2e-5/adapter_model.safetensors filter=lfs diff=lfs merge=lfs -text
+fine-tuned-weights/lr2e-6_3-epoch/adapter_model.safetensors filter=lfs diff=lfs merge=lfs -text
+fine-tuned-weights/lr5e-6/adapter_model.safetensors filter=lfs diff=lfs merge=lfs -text
+fine-tuned-weights/lr5e-6_3-epoch/adapter_model.safetensors filter=lfs diff=lfs merge=lfs -text
+fine-tuned-weights/lr7e-6/adapter_model.safetensors filter=lfs diff=lfs merge=lfs -text
+fine-tuned-weights/lr9e-6/adapter_model.safetensors filter=lfs diff=lfs merge=lfs -text
